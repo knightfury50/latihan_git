@@ -6,3 +6,7 @@ console.log('perubahan baru')
 console.log("feature baru")
 console.log("hello")
 //  test
+
+
+
+console.log(`test`)
