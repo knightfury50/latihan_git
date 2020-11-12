@@ -10,3 +10,4 @@ console.log("hello! -rean")
 //  test
 console.log("Hello Gading")
 console.log(`test`)
+console.log("coba dian")
