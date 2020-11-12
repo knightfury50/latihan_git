@@ -7,4 +7,5 @@ console.log("feature baru")
 console.log('feature jane')
 console.log("hello")
 //  test
+console.log("Hello Gading")
 console.log(`test`)
